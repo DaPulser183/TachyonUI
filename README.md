@@ -7,7 +7,7 @@ TachyonUI is a modern, high-performance Roblox Luau UI library designed for prem
 Add this to your script to load the latest version of TachyonUI:
 
 ```lua
-local TachyonUI = loadstring(game:HttpGet("https://github.com/DaPulser183/TachyonUI/blob/main/TachyonUI.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DaPulser183/TachyonUI/main/TachyonUI.lua"))()
 ```
 
 ## 🛠️ Basic Usage
